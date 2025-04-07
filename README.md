@@ -18,4 +18,6 @@ Output
 - Console output: top 10 most frequent words
 - A bar chart visualizing the word frequency from the scraped headlines
 
+License
 
+This project is licensed under the MIT License. See the `LICENSE` file for details.
